@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList.Tests", "LinkedList.Tests\LinkedList.Tests.csproj", "{3F787703-27D7-4F38-8849-667D0AC8EC91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStructures\DataStructures.csproj", "{BA9C7288-D2C8-4CCB-921D-CD5F710D29FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3F787703-27D7-4F38-8849-667D0AC8EC91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F787703-27D7-4F38-8849-667D0AC8EC91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F787703-27D7-4F38-8849-667D0AC8EC91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA9C7288-D2C8-4CCB-921D-CD5F710D29FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA9C7288-D2C8-4CCB-921D-CD5F710D29FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA9C7288-D2C8-4CCB-921D-CD5F710D29FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA9C7288-D2C8-4CCB-921D-CD5F710D29FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
